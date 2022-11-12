@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Digital-Clock-Project/static/css/main.073c9b0a.css",
+    "main.js": "/Digital-Clock-Project/static/js/main.dcfe43a4.js",
+    "index.html": "/Digital-Clock-Project/index.html",
+    "main.073c9b0a.css.map": "/Digital-Clock-Project/static/css/main.073c9b0a.css.map",
+    "main.dcfe43a4.js.map": "/Digital-Clock-Project/static/js/main.dcfe43a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dcfe43a4.js"
+  ]
+}
